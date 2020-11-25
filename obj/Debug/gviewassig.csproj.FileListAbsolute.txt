@@ -1,0 +1,5 @@
+D:\Programming\C#\visual studio\gviewassig\obj\Debug\gviewassig.csprojAssemblyReference.cache
+D:\Programming\C#\visual studio\gviewassig\obj\Debug\gviewassig.Form1.resources
+D:\Programming\C#\visual studio\gviewassig\obj\Debug\gviewassig.Properties.Resources.resources
+D:\Programming\C#\visual studio\gviewassig\obj\Debug\gviewassig.csproj.GenerateResource.cache
+D:\Programming\C#\visual studio\gviewassig\obj\Debug\gviewassig.csproj.CoreCompileInputs.cache
